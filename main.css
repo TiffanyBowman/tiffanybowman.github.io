@@ -42,3 +42,12 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+}
+/* Styles the Header/Logo Title, white font, with a font-size of 10px */
+.header {
+  padding: 0px;
+  text-align: center;
+  color: white;
+  font-size: 10px;
+}
+
